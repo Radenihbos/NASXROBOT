@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/14ea0889aa9fcc0f6a0f8.jpg">
+  <img src="https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg">
 </p>
 
 <h4><p align="center"> 𝗠𝗔𝗡𝗔𝗚𝗘 𝗢𝗧𝗔𝗡 </p></h4>
