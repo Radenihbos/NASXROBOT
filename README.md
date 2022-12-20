@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/OtanCabul-12-20">
+  <img src="https://telegra.ph/file/14ea0889aa9fcc0f6a0f8.jpg">
 </p>
 
-<h4><p align="center"> EMIKO ROBOT </p></h4>
+<h4><p align="center"> 𝗠𝗔𝗡𝗔𝗚𝗘 𝗢𝗧𝗔𝗡 </p></h4>
 
 <p align="center">Emiko Robot is a modular bot running on python3 with anime theme and have a lot features.</p>
 
