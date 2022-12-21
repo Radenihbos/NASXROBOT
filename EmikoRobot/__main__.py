@@ -90,7 +90,7 @@ PM_START_TEXT = """
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
-✪ Ketik aja kan bisa baca lu pada.
+✪ Ketik aja /help kan bisa baca lu pada.
 """
 
 buttons = [
@@ -117,7 +117,7 @@ HELP_STRINGS = """
 Click on the button bellow to get description about specifics command."""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @Bukan_guudlooking \
+ You can support the project by contacting @SipalingOTAN \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
