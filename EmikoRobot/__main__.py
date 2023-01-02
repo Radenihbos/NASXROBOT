@@ -89,7 +89,9 @@ PM_START_TEXT = """
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ Ketik aja tuh tombol kan bisa baca lu pada.
+✪ powered by @SipalingOTAN
 """
+
 buttons = [
     [
         InlineKeyboardButton(text=f"About {dispatcher.bot.first_name}", callback_data="emiko_"),
@@ -229,7 +231,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            f"👋 Yo Mek, Aing {dispatcher.bot.first_name}. Nice to meet You Mek.",
+            f"👋 Yoo, Aing {dispatcher.bot.first_name}. Nice to meet You.",
             parse_mode=ParseMode.HTML
        )
 
@@ -382,7 +384,7 @@ def emiko_about_callback(update, context):
                     InlineKeyboardButton(text="Credits", callback_data="emiko_credit"),
                  ],
                  [
-                    InlineKeyboardButton(text="Source Code", url="https://github"),
+                    InlineKeyboardButton(text="Source Code", url="https://github.com/"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="source_back"),
@@ -421,14 +423,14 @@ def emiko_about_callback(update, context):
         )
     elif query.data == "emiko_support":
         query.message.edit_text(
-            text="*๏ Otan support chats*"
+            text="*๏ Emiko support chats*"
             f"\nJoin My Support Group/Channel for see or report a problem on {dispatcher.bot.first_name}.",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="https://t.me/gbtnyaOtan"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/gbtnyaOtan"),
+                    InlineKeyboardButton(text="Support", url="t.me/havingsexid"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/log_emiko"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
@@ -447,24 +449,8 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="sena-ex", url="https://github.com/kennedy-ex"),
-                    InlineKeyboardButton(text="TheHamkerCat", url="https://github.com/TheHamkerCat"),
-                 ],
-                 [
-                    InlineKeyboardButton(text="Feri", url="https://github.com/FeriEXP"),
-                    InlineKeyboardButton(text="riz-ex", url="https://github.com/riz-ex"),
-                 ],
-                 [
-                    InlineKeyboardButton(text="Anime Kaizoku", url="https://github.com/animekaizoku"),
-                    InlineKeyboardButton(text="TheGhost Hunter", url="https://github.com/HuntingBots"),
-                 ],
-                 [
-                    InlineKeyboardButton(text="Inuka Asith", url="https://github.com/inukaasith"),
-                    InlineKeyboardButton(text="Noob-Kittu", url="https://github.com/noob-kittu"),
-                 ],
-                 [
-                    InlineKeyboardButton(text="Queen Arzoo", url="https://github.com/QueenArzoo"),
-                    InlineKeyboardButton(text="Paul Larsen", url="https://github.com/PaulSonOfLars"),
+                    InlineKeyboardButton(text="Emiko", url="https://github.com"),
+
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
@@ -785,7 +771,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                "👋 Yo Mek Idup Lagi Nich.",
+                "👋 Yo, Mek Idup lagi nich.",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
