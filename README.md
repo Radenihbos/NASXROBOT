@@ -36,12 +36,6 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 - WilliamButcherBot
 ```
 
-### Support
-<p>
-<a href="https://t.me/usernot4found"> <img src="https://img.shields.io/badge/Sena-Ex-blue?&logo=telegram" alt="Sena on Telegram" /> </a><br>
-<a href="https://t.me/EmikoSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/KennedyProject"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
-</p>
 
 ## Credit 
 
