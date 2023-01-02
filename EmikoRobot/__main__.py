@@ -430,7 +430,7 @@ def emiko_about_callback(update, context):
                 [
                  [
                     InlineKeyboardButton(text="Support", url="t.me/havingsexid"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/log_emiko"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/gbtnyaOtan"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
@@ -449,7 +449,7 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Emiko", url="https://github.com"),
+                    InlineKeyboardButton(text="Otan", url="https://t.me/SipalingOTAN"),
 
                  ],
                  [
@@ -722,7 +722,7 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 1866066766:
+        if OWNER_ID != 5658910455:
             update.effective_message.reply_text(
                 "I'm free for everyone ❤️ If you wanna make me smile, just join"
                 "[My Channel]({})".format(DONATION_LINK),
