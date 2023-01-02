@@ -1,6 +1,6 @@
 {
-      "name": "Emiko Robot",
-      "description": "A Powerful Telegram group management bot with anime theme.",
+      "name": "Otan Robot",
+      "description": "A Powerful Telegram group management bot.",
       "keywords": [
          "telegram",
          "advance",
@@ -9,7 +9,7 @@
          "emikorobot"
       ],
     
-   "logo":    "https://telegra.ph/file/35e56ba7eace7332356ad.jpg",  
+   "logo":    "https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg",  
    "repository": "https://github.com/OTANCABUL/manage",
    "addons": [
           {
@@ -63,12 +63,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "excrybaby"
+         "value": "SipalingOTAN"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "emikosupport"
+         "value": "gbtnyaOtan"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
