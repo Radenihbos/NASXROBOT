@@ -85,11 +85,12 @@ PM_START_TEXT = """
 *Yoo mek {} !*
 ✪ Ini bot untuk manage ama musikan di grup lu pada [✨](https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg)
 ────────────────────────
-× *Uptime:* `{}`
-× `{}` *users, across* `{}` *chats.*
+🐒 *Uptime:* `{}`
+🐒 `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ Ketik aja tuh tombol kan bisa baca lu pada.
-✪ powered by @SipalingOTAN
+✪ powered by @OtanCabul 🐒
+✪ Bantuan /Help
 """
 
 buttons = [
@@ -104,7 +105,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add Me To Your Group ➗", url=f"t.me/{bu}?startgroup=new"),
+            text="🐒 Tambahkan Jadi Keluargamu 🐒", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
@@ -771,7 +772,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                "👋 Yo, Mek Idup lagi nich.",
+                "👋 𝗬𝗢, 𝗠𝗘𝗞 𝗜𝗗𝗨𝗣 𝗟𝗔𝗚𝗜 𝗡𝗜𝗖𝗛.",
                 parse_mode=ParseMode.MARKDOWN
             )
         except Unauthorized:
