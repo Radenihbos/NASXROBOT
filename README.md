@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg">
+  <img src="https://i.postimg.cc/ZYp6yCw3/IMG-20230301-134109-967.png">
 </p>
 
 <h4><p align="center"> NAS X ROBOT </p></h4>
