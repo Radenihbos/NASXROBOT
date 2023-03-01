@@ -13,7 +13,7 @@ PHOTO = "https://i.postimg.cc/ZYp6yCw3/IMG-20230301-134109-967.jpg"
 
 @register(pattern=("/alive"))
 async def awake(event):
-  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), Yo mek Aing OtanxRobot.** \n\n"
+  TEXT = f"**Hi [{event.sender.first_name}](tg://user?id={event.sender.id}), Yo mek Aing NAS X ROBOT.** \n\n"
   TEXT += "⚪ **I'm Working Properly** \n\n"
   TEXT += f"⚪ **My Master : [NAS X ROBOT](https//t.me/Radenihboss)** \n\n"
   TEXT += f"⚪ **Library Version :** `{telever}` \n\n"
