@@ -381,8 +381,8 @@ def emiko_about_callback(update, context):
                     InlineKeyboardButton(text="Notes", callback_data="emiko_notes"),
                  ],
                  [
-                    InlineKeyboardButton(text="Support", callback_data="Jombloday"),
-                    InlineKeyboardButton(text="Credits", callback_data="Jombloday"),
+                    InlineKeyboardButton(text="Support", callback_data="emiko_support"),
+                    InlineKeyboardButton(text="Credits", callback_data="emiko_credit"),
                  ],
                  [
                     InlineKeyboardButton(text="Source Code", url="https://github.com/"),
@@ -450,7 +450,7 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="ʙ̷ᴧɴɢ ꝛᴀ̷ᴅεɴ", url="https://t.me/Radenihboss"),
+                    InlineKeyboardButton(text="Bang Raden", url="https://t.me/Radenihboss"),
 
                  ],
                  [
