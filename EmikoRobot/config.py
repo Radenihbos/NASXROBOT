@@ -30,7 +30,7 @@ class Config(object):
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = "something://somewhat:user@hosturl:port/databasename"  # needed for any database modules
-    MONGO_DB_URI = "mongo+srv"  # needed for any database modules
+    MONGO_DB_URI = "mongodb+srv://jomblo:jomblo@jomblo.ugktncb.mongodb.net/jomblo?retryWrites=true&w=majority"  # needed for any database modules
     ARQ_API_URL = "https://arq.hamker.in"
     ARQ_API_KEY = "JWZLUL-GWGEXE-HTIKRA-VUCDIJ-ARQ"
     BOT_API_URL = "https://api.telegram.org/bot"
