@@ -1,5 +1,5 @@
 {
-      "name": "Otan Robot",
+      "name": "NAS X ROBOT",
       "description": "A Powerful Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg",  
-   "repository": "https://github.com/OTANCABUL/manage",
+   "repository": "https://github.com/Radenihbos/NASXROBOT",
    "addons": [
           {
          "options": {
@@ -46,7 +46,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2088106582"
+         "value": "962922529"
      },
       "STRING_SESSION": {
          "description": "Fill with telethon string session.",
@@ -63,12 +63,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "SipalingOTAN"
+         "value": "Radenihboss"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "gbtnyaOtan"
+         "value": "Jombloday"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
