@@ -12,10 +12,10 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 1606221784  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    API_ID = 16039780  # integer value, dont use ""
+    API_HASH = "43c5751eb09007121dcb3ee256213dc9"
+    TOKEN = "5805848768:AAEy83OBTHB4iw17fjG89ZaZDI-b0QotVJo"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = 1708335413  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OPENWEATHERMAP_ID = 22322
     OWNER_USERNAME = "Scotchers"
     BOT_USERNAME = "EmiexRobot"
