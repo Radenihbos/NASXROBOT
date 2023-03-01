@@ -21,12 +21,12 @@ class Config(object):
     BOT_USERNAME = "Nasnihbot"
     SUPPORT_CHAT = "Jombloday"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001748076180
+        -1001765742235
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001748076180
+        -1001765742235
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
-    ERROR_LOG = -1001657496255
+    ERROR_LOG = -1001765742235
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = "something://somewhat:user@hosturl:port/databasename"  # needed for any database modules
