@@ -430,7 +430,7 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="t.me/Nasnihbos"),
+                    InlineKeyboardButton(text="Support", url="https://t.me/+2TldaqzqZVRiMDll"),
                     InlineKeyboardButton(text="Updates", url="https://t.me/Jombloday"),
                  ],
                  [
