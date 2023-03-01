@@ -83,13 +83,13 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 *Yoo mek {} !*
-✪ Ini bot untuk manage ama musikan di grup lu pada [✨](https://telegra.ph/file/84406e4ebefbab4aad1a1.jpg)
+✪ Ini bot untuk manage ama musikan di grup lu pada [✨](https://i.postimg.cc/ZYp6yCw3/IMG-20230301-134109-967.png)
 ────────────────────────
-🐒 *Uptime:* `{}`
-🐒 `{}` *users, across* `{}` *chats.*
+🔥 *Uptime:* `{}`
+🔥 `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ Ketik aja tuh tombol kan bisa baca lu pada.
-✪ powered by @OtanCabul 🐒
+✪ Powered by @Radenihboss 🔥
 ✪ Bantuan /Help
 """
 
@@ -105,7 +105,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🐒 Tambahkan Jadi Keluargamu 🐒", url=f"t.me/{bu}?startgroup=new"),
+            text="🔥 Tambahkan Jadi Keluargamu 🔥", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
@@ -115,7 +115,7 @@ Click on the button bellow to get description about specifics command."""
 
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project by contacting @SipalingOTAN \
+ You can support the project by contacting @Radenihboss \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
