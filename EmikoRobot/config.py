@@ -29,7 +29,7 @@ class Config(object):
     ERROR_LOG = -1001765742235
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = "something://somewhat:user@hosturl:port/databasename"  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = "postgres://kvdwzziy:DpoiBw49O3c24I_Ipvby9HcNeawU8nsX@tiny.db.elephantsql.com/kvdwzziy"  # needed for any database modules
     MONGO_DB_URI = "mongodb+srv://jomblo:jomblo@jomblo.ugktncb.mongodb.net/jomblo?retryWrites=true&w=majority"  # needed for any database modules
     ARQ_API_URL = "https://arq.hamker.in"
     ARQ_API_KEY = "JWZLUL-GWGEXE-HTIKRA-VUCDIJ-ARQ"
