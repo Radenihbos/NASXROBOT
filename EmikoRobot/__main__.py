@@ -105,7 +105,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🔥 Tambahkan Jadi Keluargamu 🔥", url=f"t.me/{bu}?startgroup=new"),
+            text="🔥 ᴛᴀᴍʙᴀʜᴋᴀɴ ᴅɪ ɢʀᴜᴘ 🔥", url=f"t.me/{bu}?startgroup=new"),
     ],
 ]
 
@@ -381,8 +381,8 @@ def emiko_about_callback(update, context):
                     InlineKeyboardButton(text="Notes", callback_data="emiko_notes"),
                  ],
                  [
-                    InlineKeyboardButton(text="Support", callback_data="emiko_support"),
-                    InlineKeyboardButton(text="Credits", callback_data="emiko_credit"),
+                    InlineKeyboardButton(text="Support", callback_data="Jombloday"),
+                    InlineKeyboardButton(text="Credits", callback_data="Jombloday"),
                  ],
                  [
                     InlineKeyboardButton(text="Source Code", url="https://github.com/"),
@@ -430,8 +430,8 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="t.me/havingsexid"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/gbtnyaOtan"),
+                    InlineKeyboardButton(text="Support", url="t.me/Nasnihbos"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/Jombloday"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="emiko_"),
@@ -450,7 +450,7 @@ def emiko_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Otan", url="https://t.me/SipalingOTAN"),
+                    InlineKeyboardButton(text="ʙ̷ᴧɴɢ ꝛᴀ̷ᴅεɴ", url="https://t.me/Radenihboss"),
 
                  ],
                  [
