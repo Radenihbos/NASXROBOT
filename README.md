@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.postimg.cc/ZYp6yCw3/IMG-20230301-134109-967.png">
+  <img src="https://i.postimg.cc/0N7rPccr/IMG-20230918-152414-199.jpg">
 </p>
 
-<h4><p align="center"> NAS X ROBOT </p></h4>
+<h4><p align="center"> JOMBLO X ROBOT </p></h4>
 
-<p align="center">NAS X ROBOT is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">JOMBLO X ROBOT is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 
 
